@@ -1,1 +1,1 @@
-# Minifier-JS
+minificatorejs
